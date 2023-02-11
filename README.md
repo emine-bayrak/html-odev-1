@@ -1,2 +1,2 @@
-# html-odev-1
-Html Başlık ve Paragraf Çalışması
+# Front End Eğitimi HTML Ödev
+Öğrenilen HTML kodları kullanılarak oluşturulan web sayfası
